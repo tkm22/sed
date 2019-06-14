@@ -1,0 +1,414 @@
+﻿Kansas City Building Reporting ID,Portfolio Manager Property Id,Property Name,Parent Property Id,Parent Property Name,Year,Square Feet,Postal Code,Primary Property Type,All Property Use Types,Year Built,ENERGY STAR Score,Site Energy Use (kBtu) (ACTUAL),National Median Site Energy Use (kBtu),% Difference from National Median Site EUI,Site EUI (kBtu/ft²) (ACTUAL & ESTIMATE),National Median Site EUI (kBtu/ft²),Source Energy Use (kBtu) (ACTUAL),National Median Source Energy Use (kBtu),% Difference from National Median Source EUI,Source EUI (kBtu/ft²) (ACTUAL & ESTIMATE),National Median Source EUI (kBtu/ft²),Weather Normalized Site Energy Use (kBtu),Weather Normalized Source Energy Use (kBtu),Weather Normalized Site EUI (kBtu/ft²),Weather Normalized Source EUI (kBtu/ft²),Energy Cost ($) (ESTIMATE),National Median Energy Cost ($),Energy Cost Intensity ($/ft²) (ESTIMATE),Water Use (kgal) (ACTUAL),Total Greenhouse Gas Emissions (Metric Tons CO2e),National Median Total GHG Emissions (Metric Tons CO2e),Total Greenhouse Gas Emissions Intensity (kgCO2e/ft²),Direct Greenhouse Gas Emissions (Metric Tons CO2e),Direct Greenhouse Gas Emissions Intensity (kgCO2e/ft²),Indirect Greenhouse Gas Emissions (Metric Tons CO2e),Indirect Greenhouse Gas Emissions Intensity (kgCO2e/ft²),eGRID Output Emissions Rate (kgCO2e/MBtu),eGRID Subregion,Location,Neighborhood Census,Council Districts,County Boundary,Zip Codes
+06-IS-01230,2874429,City Hall,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"413,901",64106,Office,Office,1937,95,"25,646,360.600000001","56,079,840.799999997",-54.3,62,135.5,"48,870,366.799999997","106,862,812.59999999",-54.3,118.1,258.2,"26,079,839.899999999","49,490,305.200000003",63,119.6,"762,118.59","1,666,493.48",1.84,"8,067","3,351.3","7,328.1",8.1,,,"3,351.3",8.1,240.4,(SPNO) KS-Western MO,"414 E. 12th Street
+Kansas City, Missouri 64106
+(39.100581, -94.57786)",5,4,7,75
+63-IS-12210,4905979,Ambassador Building,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"282,034",64163,Office,Office,2001,38,"26,116,385.5","23,102,898.199999999",13,92.6,81.900000000000006,"82,005,450.5","72,543,108.900000006",13,290.8,257.2,"26,116,385.5","82,005,450.5",92.6,290.8,"586,419.68000000005","518,754.59",2.08,"4,830","6,319.4","5,590.2",22.4,,,"6,319.4",22.4,242,(SRMW) Middle Mississippi,"12200 NW Ambassador Drive
+Kansas City, Missouri 64163
+(39.314775, -94.683038)",203,5,3,133
+08-IS-02410,4472559,Health Facility,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"103,935",64108,Office,Medical Office,1960,63,"7,588,337.7000000002","9,286,168.8000000007",-18.3,73,89.3,"23,827,380.300000001","29,158,573.399999999",-18.3,229.3,280.5,"7,837,514.2999999998","24,609,794.800000001",75.400000000000006,236.8,"253,526.98","310,251.62",2.44,"3,439.5","1,824.4","2,232.6",17.600000000000001,,,"1,824.4",17.600000000000001,240.4,(SPNO) KS-Western MO,"2400 Troost Avenue
+Kansas City, Missouri 64108
+(39.083685, -94.570658)",11,3,7,92
+02-IS-01820,4947959,American Royal Complex,4947959,American Royal Complex,2015,"497,181",64102,Convention Center,Convention Center,1960,,,"22,518,037.699999999",,,45.3,,"34,722,340.799999997",,,69.8,"15,147,555.699999999","44,840,683",30.5,90.2,,"315,265.78000000003",,"3,226.2","3,391.5","2,733",6.8,62.9,0.1,"3,328.6",6.7,240.4,(SPNO) KS-Western MO,"1701 American Royal
+Kansas City, Missouri 64102
+(39.090674, -94.603875)",241,4,7,20
+05-IS-01310,4472730,Bartle Hall,4940016,Convention Center Complex,2015,"1,145,000",64105,Convention Center,Convention Center,1976,,"44,037,735.299999997","29,991,850",46.8,38.5,26.2,"117,414,478.5","79,965,003.200000003",46.8,102.5,69.8,"45,774,320","119,456,672.2",40,104.3,"1,223,815.76","833,478.38",1.07,"1,511.2","8,714.1","5,934.7",7.6,105.8,0.1,"8,608.2999999999993",7.5,240.4,(SPNO) KS-Western MO,"301 West 13th Street
+Kansas City, Missouri 64105
+(39.0988, -94.58697)",5,4,7,72
+57-IS-06830,4472757,Shoal Creek Central Plant and Police Academy,4950792,Police Dept. Shoal Creek Cmapus,2015,"12,984",64157,Police Station,Other,2006,,"17,302,693.899999999","879,669.8","1,867","1,332.6",67.8,"31,443,783.199999999","1,598,603.5","1,867","2,421.6999999999998",123.1,"17,660,957.600000001","31,465,913.899999999","1,360.2","2,423.4","269,647.98","13,708.92",20.77,"1,488","2,118.6999999999998",107.7,163.19999999999999,581.6,44.8,"1,537",118.4,242,(SRMW) Middle Mississippi,"6885 NE Pleasant Valley Road
+Kansas City, Missouri 64157
+(39.216579, -94.49904)",187,6,4,135
+57-IS-06840,4950792,Police Dept. Shoal Creek Cmapus,4950792,Police Dept. Shoal Creek Cmapus,2015,"60,448",64157,Police Station,Police Station,1960,,"20,351,576.199999999","4,629,451.5",339.6,336.7,76.599999999999994,"41,017,273.799999997","9,330,356.8000000007",339.6,678.6,154.4,"20,725,128.699999999","41,087,411",342.9,679.7,"361,030.88","82,125.100000000006",5.97,"1,488","2,856.4",649.79999999999995,47.3,581.6,9.6,"2,274.8000000000002",37.6,242,(SRMW) Middle Mississippi,"6801 NE Pleasant Valley Rd.
+Kansas City, Missouri 64157
+(39.21658, -94.499005)",187,6,4,135
+06-IS-01120,4472728,Garage-1100 Oak St.,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"441,200",64106,Parking,Parking,2002,,"5,060,022.9000000004",,,11.5,,"15,888,471.800000001",,,36,,"5,141,290.9000000004","16,143,653.5",11.7,36.6,"137,105.46",,0.31,"1,308.7","1,216.5",,2.8,,,"1,216.5",2.8,240.4,(SPNO) KS-Western MO,"11th and Oak Streets
+Kansas City, Missouri 64106",,,,
+37-IS-09730,4472788,PD South Patrol Main,4950770,Police Dept. South Patrol Campus,2015,"75,230",64137,Police Station,Police Station,1960,,"4,158,107.9","3,698,091.7",12.4,55.3,49.2,"13,056,458.699999999","11,612,009.4",12.4,173.6,154.4,"4,158,107.9","13,056,458.699999999",55.3,173.6,"105,324.92","93,672.71",1.4,"1,262.2",999.7,889.1,13.3,,,999.7,13.3,240.4,(SPNO) KS-Western MO,"9701 Marion Park Dr.
+Kansas City, Missouri 64137
+(38.948456, -94.5357)",178,2,7,149
+37-IS-09740,4950770,Police Dept. South Patrol Campus,4950770,Police Dept. South Patrol Campus,2015,"118,338",64137,Police Station,Police Station,1960,,"6,633,356","6,160,227.5",7.7,56.1,52.1,"19,668,763","18,265,877.600000001",7.7,166.2,154.4,"6,683,003.9000000004","19,720,893.199999999",56.5,166.6,"164,795.97","153,041.78",1.39,"1,262.2","1,490.8","1,384.5",12.6,29.5,0.2,"1,461.4",12.3,240.4,(SPNO) KS-Western MO,"9701 Marion Park Dr.
+Kansas City, Missouri 64137
+(38.948456, -94.5357)",178,2,7,149
+05-IS-01320,4472731,Bartle Hall Expansion and Conference Center,4940016,Convention Center Complex,2015,"75,568",64105,Convention Center,Convention Center,1960,,"10,644,548","3,604,589.2",195.3,140.9,47.7,"15,584,894","5,277,550.5",195.3,206.2,69.8,,,,,"190,160.44","64,394.49",2.52,"1,247.3",956.5,323.89999999999998,12.7,,,956.5,12.7,240.4,(SPNO) KS-Western MO,"301 West 13th Street
+Kansas City, Missouri 64105
+(39.0988, -94.58697)",5,4,7,72
+30-IS-06120,4923210,Water Services Department Main Complex,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"44,336",64130,Office,Office,1960,77,"9,769,597.0999999996","13,703,063.1",-28.7,91.3,128.1,"30,292,847.600000001","42,489,446.200000003",-28.7,283.10000000000002,397.1,"9,779,173","30,302,902.300000001",91.4,283.2,"261,898.37","367,344.67",2.4500000000000002,"1,143.8","2,314.4","3,246.3",21.6,9.8000000000000007,0.1,"2,304.6999999999998",21.5,240.4,(SPNO) KS-Western MO,"4800 E. 63rd Street, Dp01
+Kansas City, Missouri 64130",,,,
+06-IS-01120,4472727,Municipal Courts Building,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"100,952",64106,Office,Courthouse,1960,93,"6,191,560.2999999998","12,677,697.300000001",-51.2,61.3,125.6,"11,713,063.199999999","23,983,400.199999999",-51.2,116,237.6,"6,214,811","11,771,671.9",61.6,116.6,"170,029.44","348,148.37",1.68,"1,080.8",803.5,"1,645.3",8,,,803.5,8,240.4,(SPNO) KS-Western MO,"1101 Locust Street
+Kansas City, Missouri 64106
+(39.100368, -94.57736)",5,4,7,75
+05-IS-01330,4472729,Municipal Auditorium,4940016,Convention Center Complex,2015,"570,440",64105,Social/Meeting Hall,Indoor Arena,1960,,"19,612,430.100000001","28,320,425.600000001",-30.7,34.4,49.6,"33,620,991.100000001","48,548,846",-30.7,58.9,85.1,"21,156,733.800000001","35,478,852",37.1,62.2,"392,921.8","567,380.65",0.69,999,"2,203","3,181.2",3.9,,,"2,203",3.9,240.4,(SPNO) KS-Western MO,"1300 Wyandotte
+Kansas City, Missouri 64105
+(39.098741, -94.585616)",5,4,7,72
+53-IS-11750,4905984,Park Air Express Facility,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"25,000",64153,Mixed Use Property,Other,2004,,"3,576,422.1","1,768,115",102.3,143.1,70.7,"6,226,019.7999999998","3,078,025.9",102.3,249,123.1,"3,782,267.7","6,442,157.5999999996",151.30000000000001,257.7,,,,787.5,413.2,204.3,16.5,127.2,5.0999999999999996,286.10000000000002,11.4,242,(SRMW) Middle Mississippi,"11500 NW Prairie View Rd.
+Kansas City, Missouri 64153
+(39.301977, -94.686507)",203,5,3,130
+53-IS-11710,4905981,KCI-Storeroom-Mexico City Ave. Central Warehouse,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"79,600",64153,Non-Refrigerated Warehouse,Non-Refrigerated Warehouse,1960,5,"6,130,383","2,601,764.9",135.6,77,32.700000000000003,"14,542,608.9","6,171,955.2999999998",135.6,182.7,77.5,"6,279,852.9000000004","14,601,438.1",78.900000000000006,183.4,,,,650.20000000000005,"1,058.0999999999999",449,13.3,119.6,1.5,938.4,11.8,242,(SRMW) Middle Mississippi,"533 Mexico City Avenue
+Kansas City, Missouri 64153
+(39.304159, -94.718786)",203,5,3,130
+30-IS-04520,4933245,PW District 3 Office - Coal Mine Rd.,4950660,Public Works District 3,2015,"48,000",64130,Office,Office,1973,,,"3,232,064",,,67.3,,"7,106,413.9000000004",,,148.1,,,,,,"53,989.599999999999",,618.79999999999995,,508.5,,,,125.2,2.6,240.4,(SPNO) KS-Western MO,"4725 Coal Mine Road
+Kansas City, Missouri 64130
+(39.043357, -94.51788)",20,3,7,157
+30-IS-04720,4950660,Public Works District 3,4950660,Public Works District 3,2015,"73,848",64130,Public Services,Public Services,1960,,,"5,820,687.0999999996",,,78.8,,"9,092,242.3000000007",,,123.1,,,,,,"87,369.37",,618.79999999999995,,784.6,,,,274.2,3.7,240.4,(SPNO) KS-Western MO,"4725 Coal Mine Rd.
+Kansas City, Missouri 64130
+(39.043357, -94.51788)",20,3,7,157
+32-IS-07600,4472928,Police Dept. Metro Patrol Main,4939991,PD Metro Patrol Campus,2015,"28,093",64132,Police Station,Police Station,1960,,"3,772,159.9","1,612,200",134,134.30000000000001,57.4,"10,145,782.6","4,336,251.2",134,361.1,154.4,"3,880,416.8","10,259,452.4",138.1,365.2,"84,310.61","36,033.879999999997",3,601.5,754.7,322.5,26.9,43.2,1.5,711.5,25.3,240.4,(SPNO) KS-Western MO,"7601 Prospect Ave.
+Kansas City, Missouri 64132
+(38.987189, -94.557459)",154,2,7,151
+57-IS-06840,4939991,PD Metro Patrol Campus,4939991,PD Metro Patrol Campus,2015,"43,301",64132,Police Station,Police Station,1960,,"4,041,923.6","2,457,493.6",64.5,93.3,56.8,"10,992,840.800000001","6,683,658.4000000004",64.5,253.9,154.4,"4,180,016.7","11,200,196.300000001",96.5,258.7,"94,248.41","57,303.13",2.1800000000000002,601.5,819.5,498.3,18.899999999999999,43.2,1,776.3,17.899999999999999,240.4,(SPNO) KS-Western MO,"7601 Prospect Ave.
+Kansas City, Missouri 64132
+(38.987189, -94.557459)",154,2,7,151
+20-IS-01620,4905840,PACCAR,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"244,740",64120,Office,Other,1960,,"11,593,821.800000001","12,411,979",-6.6,47.4,50.7,"28,146,396.199999999","30,132,642.5",-6.6,115,123.1,"12,008,738.800000001","28,470,571.199999999",49.1,116.3,"308,537.92","330,310.82",1.26,557.29999999999995,"2,047.3","2,191.8000000000002",8.4,209.9,0.9,"1,837.4",7.5,240.4,(SPNO) KS-Western MO,"1301 Chouteau Trafficway
+Kansas City, Missouri 64120
+(39.135438, -94.526851)",53,4,7,144
+02-IS-01810,4472763,Kemper Arena,4947959,American Royal Complex,2015,"283,856",64102,Indoor Arena,Indoor Arena,1974,,"5,162,502.5","9,079,144.8000000007",-43.1,18.2,32,"13,736,698.9","24,158,336.100000001",-43.1,48.4,85.1,"5,281,680.9000000004","13,861,836.199999999",18.600000000000001,48.8,"186,800.24","328,520.15999999997",0.66,549.70000000000005,"1,019.5","1,793",3.6,62.9,0.2,956.6,3.4,240.4,(SPNO) KS-Western MO,"1800 Genessee St.
+Kansas City, Missouri 64102
+(39.093352, -94.605201)",241,4,7,20
+24-IS-00510,4472747,Fire Station 23,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"16,042",64124,Fire Station,Fire Station,1977,,"2,076,537.7","1,277,972.7",62.5,129.4,79.7,"4,023,398.7","2,476,137.9",62.5,250.8,154.4,"2,130,638.5","4,052,193.2",132.80000000000001,252.6,"37,349.57","22,986.21",2.33,545.29999999999995,275.5,169.5,17.2,63.5,4,212,13.2,240.4,(SPNO) KS-Western MO,"4777 Independence Avenue
+Kansas City, Missouri 64124
+(39.105472, -94.526683)",215,3,7,70
+27-IS-01910,4923468,Fleet Operations Building - Brooklyn Ave.,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"67,000",64127,Public Services,Public Services,1960,,"2,005,711.2","2,627,104.6",-23.7,29.9,39.200000000000003,"6,297,933","8,249,109.5",-23.7,94,123.1,"2,005,711.2","6,297,933",29.9,94,"72,743.289999999994","95,280.04",1.0900000000000001,539.29999999999995,482.2,631.6,7.2,,,482.2,7.2,240.4,(SPNO) KS-Western MO,"2301 East 19th St.
+Kansas City, Missouri 64127
+(39.089904, -94.555402)",234,3,7,95
+26-IS-01810,4923501,Police Athletic League,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"13,400",64126,Recreation,Recreation,1960,,"1,703,198.1","753,193.3",126.1,127.1,56.2,"2,933,713.2","1,297,355.3999999999",126.1,218.9,96.8,"1,816,701.3","3,052,891.5",135.6,227.8,"31,993.95","14,148.46",2.39,519.70000000000005,193.1,85.4,14.4,61.4,4.5999999999999996,131.80000000000001,9.8000000000000007,240.4,(SPNO) KS-Western MO,"1801 White Ave.
+Kansas City, Missouri 64126
+(39.089094, -94.512695)",6,3,7,94
+05-IS-01210,4923461,Garage-1220 Wyandotte (APG),Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"450,000",64105,Parking,Parking,1955,,"1,296,338.5",,,2.9,,"4,070,502.9",,,9,,"1,339,709.7","4,206,688.5",3,9.3000000000000007,"44,594.36",,0.1,470.2,311.7,,0.7,,,311.7,0.7,240.4,(SPNO) KS-Western MO,"1220 Wyandotte
+Kansas City, Missouri 64105
+(39.09936, -94.585597)",5,4,7,72
+20-IS-01710,4905827,Fire Station 47 / Fire Academy,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"11,259",64120,Fire Station,Fire Station,1965,,"4,467,824.8","989,627.8",351.5,396.8,87.9,"7,845,857.5","1,737,865.4",351.5,696.9,154.4,"4,912,929.0999999996","8,326,140.7000000002",436.4,739.5,"76,263.8","16,892.509999999998",6.77,456.7,520,115.2,46.2,157.1,14,362.9,32.200000000000003,240.4,(SPNO) KS-Western MO,"5130 Deramus Street
+Kansas City, Missouri 64120
+(39.139629, -94.520181)",53,4,7,144
+30-IS-04710,4472783,Fire Station 35,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"18,196",64130,Fire Station,Fire Station,1960,,"1,950,051.4","1,164,385.3",67.5,107.2,64,"4,703,721.8","2,808,615.2",67.5,258.5,154.4,"2,006,883.4","4,777,128.2",110.3,262.5,"41,289.01","24,653.87",2.27,441.7,341.6,204,18.8,36.1,2,305.60000000000002,16.8,240.4,(SPNO) KS-Western MO,"3200 E. Emanuel Cleaver II Blvd.
+Kansas City, Missouri 64130",,,,
+53-IS-11230,4905980,Aviation Administration Building,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"41,500",64153,Office,Office,1995,10,"4,639,153.5","2,772,843.9",67.3,111.8,66.8,"14,566,942","8,706,731",67.3,351,209.8,"4,660,479.5","14,633,905.5",112.3,352.6,"110,035.53","65,768.75",2.65,420,"1,122.5",670.9,27,,,"1,122.5",27,242,(SRMW) Middle Mississippi,"601 Brasilia Avenue
+Kansas City, Missouri 64153
+(39.30537, -94.716649)",203,5,3,130
+31-IS-09910,4472781,Fire Station 36,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"16,120",64131,Fire Station,Fire Station,1960,,"1,945,948","1,216,426.7",60,120.7,75.5,"3,980,399.2","2,488,177.5",60,246.9,154.4,"2,044,856.1","4,084,252.7",126.9,253.4,"39,371.980000000003","24,611.72",2.44,388.5,277,173.1,17.2,54.1,3.4,222.8,13.8,240.4,(SPNO) KS-Western MO,"9903 Holmes Road
+Kansas City, Missouri 64131
+(38.947617, -94.582391)",162,1,7,163
+28-IS-03210,4472744,Fire Station 18,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"12,202",64120,Fire Station,Fire Station,1978,,"1,300,022","1,046,321.6",24.2,106.5,85.8,"2,340,091.4","1,883,420.7",24.2,191.8,154.4,"1,389,182.4","2,418,722.2999999998",113.8,198.2,"21,034.48","16,929.580000000002",1.72,381,156.4,125.9,12.8,44.3,3.6,112.2,9.1999999999999993,240.4,(SPNO) KS-Western MO,"3211 Indiana Avenue
+Kansas City, Missouri 64120
+(39.068425, -94.543699)",77,3,7,36
+10-IS-06310,4472749,Fire Station 29,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"11,339",64110,Fire Station,Fire Station,1968,,"998,640.8","821,674.2",21.5,88.1,72.5,"2,127,163","1,750,213.7",21.5,187.6,154.4,"1,038,415.9","2,160,049.9",91.6,190.5,"20,740.25","17,064.919999999998",1.83,353.2,149.69999999999999,123.2,13.2,25.6,2.2999999999999998,124.1,10.9,240.4,(SPNO) KS-Western MO,"1414 East 63rd Street
+Kansas City, Missouri 64110
+(39.013043, -94.56913)",64,2,7,165
+09-IS-03410,4472743,Fire Station 17,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"11,586",64120,Fire Station,Fire Station,1979,,"1,115,065","842,191.2",32.4,96.2,72.7,"2,367,769","1,788,339",32.4,204.4,154.4,"1,162,260.3999999999","2,403,895.2000000002",100.3,207.5,"21,463.360000000001","16,210.94",1.85,340.5,166.5,125.8,14.4,28.8,2.5,137.69999999999999,11.9,240.4,(SPNO) KS-Western MO,"3401 Paseo Boulevard
+Kansas City, Missouri 64120
+(39.064793, -94.566976)",78,3,7,19
+11-IS-04310,4472764,Fire Station 19,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"18,453",64111,Fire Station,Fire Station,1960,,"1,893,912.7","1,582,075.7",19.7,102.6,85.7,"3,409,698.6","2,848,284.1",19.7,184.8,154.4,"1,973,784","3,466,030.9",107,187.8,"33,448.79","27,941.37",1.81,338.2,228,190.4,12.4,64.5,3.5,163.5,8.9,240.4,(SPNO) KS-Western MO,"550 West 43rd Street
+Kansas City, Missouri 64111
+(39.049525, -94.593275)",42,4,7,50
+06-IS-00910,4472780,Fire Station 10,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"12,244",64410,Fire Station,Fire Station,1977,,"988,958.9","1,091,311.2",-9.4,80.8,89.1,"1,712,652.7","1,889,903.5",-9.4,139.9,154.4,"1,035,780.9","1,755,418.8",84.6,143.4,"16,404.2","18,101.96",1.34,331.5,88.5,97.7,7.2,35.4,2.9,53.1,4.3,,,"1505 East 9th Street
+Kansas City, Missouri 64410
+(39.102975, -94.562515)",134,3,7,75
+19-IS-08310,4472741,Fire Station 14,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"17,152",64110,Fire Station,Fire Station,1960,,"1,873,660.1","1,475,573.9",27,109.2,86,"3,361,715.5","2,647,470.2000000002",27,196,154.4,"1,960,496.6","3,434,188",114.3,200.2,"31,615.79","24,898.560000000001",1.84,299.2,224.5,176.8,13.1,64.099999999999994,3.7,160.4,9.4,240.4,(SPNO) KS-Western MO,"8300 N. Brighton Street
+Kansas City, Missouri 64110
+(39.244071, -94.520569)",244,6,4,135
+01-IS-09000,4923212,Parks Dist. 2 - 9th St. Maintenance Facility,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"37,000",64101,Mixed Use Property,Other,1960,,"2,475,105.2999999998","2,310,396",7.1,66.900000000000006,62.4,"4,880,240.5999999996","4,555,478.4000000004",7.1,131.9,123.1,"2,657,746.7000000002","5,104,712.5",71.8,138,"43,996.79","41,068.959999999999",1.19,288.8,335.9,313.60000000000002,9.1,73.5,2,262.39999999999998,7.1,240.4,(SPNO) KS-Western MO,"1526 W. 9th St.
+Kansas City, Missouri 64101
+(39.104329, -94.603331)",241,4,7,56
+55-IS-11110,4472777,Fire Station 03,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"10,700",64155,Fire Station,Fire Station,1960,,"1,083,133.8","899,306.3",20.399999999999999,101.2,84,"1,989,182.3","1,651,581.8",20.399999999999999,185.9,154.4,"1,127,620.5","2,023,415.5",105.4,189.1,"19,287.810000000001","16,014.32",1.8,261.8,134.5,111.7,12.6,35.9,3.4,98.6,9.1999999999999993,242,(SRMW) Middle Mississippi,"11101 N. Oak Trafficway
+Kansas City, Missouri 64155
+(39.295042, -94.575413)",104,5,4,82
+53-IS-12010,4927967,KCI-Sand & De-Ice Building,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"17,415",64153,Other Services,Other Services,1960,,"1,215,107.6000000001","1,014,395.9",19.8,69.8,58.2,"2,094,244.1","1,748,316.4",19.8,120.3,100.4,,,,,,,,247.5,94.7,79.099999999999994,5.4,,,94.7,5.4,242,(SRMW) Middle Mississippi,"1 N. Manila Square
+Kansas City, Missouri 64153",,,,
+16-IS-03910,4472740,Fire Station 06,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"15,562",64110,Fire Station,Fire Station,1964,,"1,291,153.6000000001","1,507,284.1",-14.3,83,96.9,"2,057,617","2,402,048.2999999998",-14.3,132.19999999999999,154.4,"1,394,597.1","2,166,232.7000000002",89.6,139.19999999999999,"20,802.79","24,285.03",1.34,243,131.5,153.5,8.4,50.7,3.3,80.7,5.2,240.4,(SPNO) KS-Western MO,"2600 NE Parvin Road
+Kansas City, Missouri 64110
+(39.165123, -94.55071)",86,6,4,167
+33-IS-04710,4472745,Fire Station 39,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"11,584",64133,Fire Station,Fire Station,1960,,"830,076","1,023,437.2",-18.899999999999999,71.7,88.3,"1,450,211.9","1,788,030.3",-18.899999999999999,125.2,154.4,"886,169.4","1,509,110.1",76.5,130.30000000000001,"14,286.95","17,615.009999999998",1.23,243,95.9,118.3,8.3000000000000007,29.4,2.5,66.599999999999994,5.7,240.4,(SPNO) KS-Western MO,"10003 East 47th Street
+Kansas City, Missouri 64133
+(39.037512, -94.462016)",165,3,7,37
+16-IS-03900,4933244,PW Streets District 1 Main Building,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"25,848",64116,Office,Office,1960,,,"1,740,466.5",,,67.3,,"3,826,803.9",,,148.1,,,,,,"29,073.4",,242.3,0,273.8,0,,,,,240.4,(SPNO) KS-Western MO,"2400 NE Russell Rd.
+Kansas City, Missouri 64116
+(39.166555, -94.550205)",86,6,4,167
+,4472933,Fire Station 44,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"3,856",64410,Fire Station,Fire Station,1964,,"500,507.8","325,139.3",53.9,129.80000000000001,84.3,"916,209.4","595,186.9",53.9,237.6,154.4,,,,,"9,500.02","6,171.39",2.46,240,30.8,20,8,,,30.8,8,,,"7511 NW Barry Road
+Kansas City, Missouri 64410
+(39.246898, -94.666998)",69,5,3,77
+30-IS-04910,4472736,4900 Swope Parkway,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"53,444",64130,Office,Office,1960,56,"3,460,223","3,717,201.3",-6.9,64.7,69.599999999999994,"10,865,100.199999999","11,672,013.5",-6.9,203.3,218.4,"3,545,307.5","11,132,265.6",66.3,208.3,"106,794.25","114,725.43",2,237.8,831.9,893.7,15.6,,,831.9,15.6,240.4,(SPNO) KS-Western MO,"4900 Swope Parkway Building
+Kansas City, Missouri 64130
+(39.037256, -94.544699)",175,3,7,157
+26-IS-01410,4472766,Fire Station 27/HazMat Facility 17,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"17,036",64126,Fire Station,Fire Station,1960,,"887,868.8","1,035,194.1",-14.2,52.1,60.8,"2,255,334.2999999998","2,629,565.2000000002",-14.2,132.4,154.4,,,,,"21,534.67","25,107.94",1.26,234,152.19999999999999,177.5,8.9,,,152.19999999999999,8.9,240.4,(SPNO) KS-Western MO,"6600 East Truman Road
+Kansas City, Missouri 64126
+(39.093762, -94.505345)",83,3,7,94
+,4472778,Fire Station 07,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"9,615",64110,Fire Station,Fire Station,1978,,"816,348.2","701,566.4",16.399999999999999,84.9,73,"1,726,920.3","1,484,108.3",16.399999999999999,179.6,154.4,"845,969.2","1,745,096.8",88,181.5,"15,457.72","13,284.3",1.61,233.3,121.3,104.3,12.6,21.3,2.2000000000000002,100.1,10.4,240.4,(SPNO) KS-Western MO,"616 West Pennway Road
+Kansas City, Missouri 64110
+(39.087481, -94.592217)",149,4,7,92
+,4472739,Fire Station 04,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"8,720",64110,Fire Station,Fire Station,1981,,"733,583.8","697,090.8",5.2,84.1,79.900000000000006,"1,416,423.7","1,345,962",5.2,162.4,154.4,"772,596","1,457,386.6",88.6,167.1,"14,787.52","14,051.89",1.7,231,96.9,92.1,11.1,22.5,2.6,74.3,8.5,240.4,(SPNO) KS-Western MO,"4000 NW 64th Street
+Kansas City, Missouri 64110
+(39.210476, -94.627001)",152,5,3,66
+08-IS-01810,4472734,GEM Theatre,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"34,896",64108,Performing Arts,Performing Arts,1960,,"1,107,398.7","945,833.9",17.100000000000001,31.7,27.1,"3,477,232.1","2,969,918.9",17.100000000000001,99.6,85.1,"1,170,809.2","3,676,341",33.6,105.4,"53,327.72","45,547.43",1.53,219,266.2,227.4,7.6,,,266.2,7.6,240.4,(SPNO) KS-Western MO,"1615 E. 18th Street
+Kansas City, Missouri 64108
+(39.091177, -94.562626)",234,3,7,92
+20-IS01630,4472776,Traffic Operations Center,4947917,MSC Complex,2015,"48,000",64120,Public Services,Public Services,1960,,"3,837,368.4","2,948,448.4",30.1,79.900000000000006,61.4,"7,691,543.2000000002","5,909,809.7999999998",30.1,160.19999999999999,123.1,"4,086,781.9","7,939,923.2999999998",85.1,165.4,"77,819.06","59,792.41",1.62,217.5,532,408.8,11.1,110.7,2.2999999999999998,421.3,8.8000000000000007,240.4,(SPNO) KS-Western MO,"5310 Municipal Avenue
+Kansas City, Missouri 64120
+(39.134806, -94.520862)",53,4,7,144
+20-IS-01640,4947917,MSC Complex,4947917,MSC Complex,2015,"306,000",64120,Public Services,Public Services,1960,,"19,491,128.100000001","17,221,572.199999999",13.2,63.7,56.3,"42,640,066.600000001","37,675,037.200000003",13.2,139.30000000000001,123.1,"20,557,235.600000001","43,646,098.799999997",67.2,142.6,"366,023.38","323,403.43",1.2,217.5,"3,022.6","2,670.6",9.9,471.7,1.5,"2,550.8000000000002",8.3000000000000007,240.4,(SPNO) KS-Western MO,"5300 Municipal Ave.
+Kansas City, Missouri 64120
+(39.134393, -94.521654)",53,4,7,144
+08-IS-01820,4472735,18th and Vine Museums,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"55,200",64108,Museum,Museum,1960,,"4,993,513.8","1,496,161",233.8,90.5,27.1,"15,679,633.5","4,697,946",233.8,284.10000000000002,85.1,"4,993,513.8","15,679,633.5",90.5,284.10000000000002,"148,820.76999999999","44,589.81",2.7,197.3,"1,200.5999999999999",359.7,21.7,,,"1,200.5999999999999",21.7,240.4,(SPNO) KS-Western MO,"1600 E. 18th Street
+Kansas City, Missouri 64108
+(39.091201, -94.563361)",234,3,7,92
+,4472754,Fire Station 42,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"7,988",64134,Fire Station,Fire Station,1965,,"634,548.19999999995","565,616.19999999995",12.2,79.400000000000006,70.8,"1,383,238.7","1,232,975.3",12.2,173.2,154.4,"677,973.3","1,439,971.6",84.9,180.3,"13,363.59","11,911.88",1.67,195.7,98,87.3,12.3,15.5,1.9,82.5,10.3,240.4,(SPNO) KS-Western MO,"6006 Red Bridge Road
+Kansas City, Missouri 64134
+(38.924176, -94.520386)",166,1,7,143
+10-IS-05810,4472785,5825-30 Troost - Spay and Neuter & Safety Council Complex,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"19,316",64110,Office,Office,1960,94,"829,296.5","1,771,271.9",-53.2,42.9,91.7,"1,697,614.5","3,625,888.5",-53.2,87.9,187.7,"888,935.1","1,760,235",46,91.1,"19,252.580000000002","41,121.06",1,195.7,118.2,252.4,6.1,23,1.2,95.1,4.9000000000000004,240.4,(SPNO) KS-Western MO,"5825, 5829, 5835 Troost
+Kansas City, Missouri 64110
+(39.020877, -94.571848)",1,2,7,165
+53-IS-12110,4905977,KCI-Parking And Bus Administration,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"1,152",64153,Office,Office,1960,,"1,472,666.3","62,378.1","2,260.9","1,278.4000000000001",54.1,"4,026,557.7","170,553.9","2,260.9","3,495.3",148.1,"1,495,463.3","4,050,494.5","1,298.0999999999999","3,516.1",,,,184.5,302.3,12.8,262.39999999999998,15.2,13.2,287.2,249.3,242,(SRMW) Middle Mississippi,"400 Panama City Avenue
+Kansas City, Missouri 64153
+(39.314337, -94.711465)",203,5,3,133
+27-IS-02210,4472765,Fire Station 24,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"12,900",64127,Fire Station,Fire Station,1979,,"1,019,609.9","1,002,525.3",1.7,79,77.7,"2,025,092","1,991,159.4",1.7,157,154.4,"1,086,834.2","2,095,677.5",84.3,162.5,"18,123.62","17,819.939999999999",1.4,183.8,139.69999999999999,137.4,10.8,29.9,2.2999999999999998,109.8,8.5,240.4,(SPNO) KS-Western MO,"2039 Hardesty Avenue
+Kansas City, Missouri 64127
+(39.085381, -94.519819)",222,3,7,95
+53-IS-11740,4906002,KCI-Taxi Operations,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"3,578",64153,Public Services,Public Services,1960,,"513,231","169,535.9",202.7,143.4,47.4,"1,333,594.3","440,527.1",202.7,372.7,123.1,"529,644.80000000005","1,350,828.8",148,377.5,,,,179.3,99.1,32.700000000000003,27.7,7.1,2,92,25.7,242,(SRMW) Middle Mississippi,"6 International Square
+Kansas City, Missouri 64153
+(39.298028, -94.716897)",203,5,3,130
+,4472753,Fire Station 40,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"7,794",64110,Fire Station,Fire Station,1962,,"625,771.5","725,269.8",-13.7,80.3,93.1,"1,037,989.4","1,203,030.7",-13.7,133.19999999999999,154.4,"667,776.80000000005","1,077,115.3999999999",85.7,138.19999999999999,"9,898.7999999999993","11,472.72",1.27,166.5,67.400000000000006,78.099999999999994,8.6,23.6,3,43.8,5.6,240.4,(SPNO) KS-Western MO,"5200 North Oak Trafficway
+Kansas City, Missouri 64110
+(39.18827, -94.576559)",82,6,4,154
+,4472767,Fire Station 34,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"4,880",64110,Fire Station,Fire Station,1958,,"522,096.3","464,469.7",12.4,107,95.2,"846,699.5","753,244.8",12.4,173.5,154.4,"553,462.6","879,634.2",113.4,180.3,"7,464.7","6,640.78",1.53,162.80000000000001,54.5,48.5,11.2,20.100000000000001,4.0999999999999996,34.299999999999997,7,240.4,(SPNO) KS-Western MO,"4836 N. Brighton Street
+Kansas City, Missouri 64110
+(39.181353, -94.521298)",127,6,4,135
+,4472752,Fire Station 33,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"5,841",64133,Fire Station,Fire Station,1957,,"635,530.69999999995","460,668.4",38,108.8,78.900000000000006,"1,243,803.3","901,578.5",38,212.9,154.4,"673,872.2","1,275,981.2",115.4,218.5,"12,792.14","9,272.4699999999993",2.19,162.69999999999999,85.4,61.9,14.6,19.100000000000001,3.3,66.3,11.4,240.4,(SPNO) KS-Western MO,"7504 East 67th Street
+Kansas City, Missouri 64133
+(39.002953, -94.49918)",18,2,7,37
+06-IS-00920,4472737,Police Dept. Headquarters Annex,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"29,440",64106,Office,Office,1960,10,"3,090,917.1","1,879,176.2",64.5,105,63.8,"9,705,061.6999999993","5,900,358.4000000004",64.5,329.7,200.4,"3,090,917.1","9,705,061.6999999993",105,329.7,"80,852.47","49,155.65",2.75,153,743.1,451.8,25.2,,,743.1,25.2,240.4,(SPNO) KS-Western MO,"901 Charlotte
+Kansas City, Missouri 64106
+(39.103104, -94.573769)",5,4,7,75
+08-IS-02130,4923503,Water Services Industrial Waste Control Facility,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"55,351",64106,Public Services,Public Services,1960,,"835,222.8","3,610,589.6",-76.900000000000006,15.1,65.2,"1,576,456.5","6,814,872.5",-76.900000000000006,28.5,123.1,,,,,"17,425.86","75,330.34",0.31,146.19999999999999,26.6,114.9,0.5,26.6,0.5,,,240.4,(SPNO) KS-Western MO,"1001 Harrison St.
+Kansas City, Missouri 64106
+(39.101741, -94.571044)",183,3,7,75
+53-IS-11223,4472742,Fire Station 16,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"10,525",64110,Fire Station,Fire Station,1975,,"1,027,863.7","870,700.8",18.100000000000001,97.7,82.7,"1,917,807.5","1,624,570",18.100000000000001,182.2,154.4,"1,072,943.6000000001","1,955,835.3",101.9,185.8,"17,169.55","14,544.29",1.63,145.5,129.69999999999999,109.9,12.3,33.299999999999997,3.2,96.5,9.1999999999999993,240.4,(SPNO) KS-Western MO,"9205 NW 112th Street
+Kansas City, Missouri 64110
+(39.295954, -94.686793)",203,5,3,130
+,4472750,Fire Station 30,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"5,820",64132,Fire Station,Fire Station,1969,,"621,923","511,894.4",21.5,106.9,88,"1,091,429.3","898,337",21.5,187.5,154.4,"659,085.80000000005","1,119,105.6000000001",113.2,192.3,"10,485.4","8,630.36",1.8,141,72.3,59.5,12.4,21.9,3.8,50.4,8.6999999999999993,240.4,(SPNO) KS-Western MO,"7534 Prospect Avenue
+Kansas CIty, Missouri 64132
+(38.989666, -94.557333)",154,2,7,151
+,4472779,Fire Station 08,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"4,466",64410,Fire Station,Fire Station,1958,,"507,910.40000000002","351,711.8",44.4,113.7,78.8,"995,486.2","689,342.5",44.4,222.9,154.4,"524,549.30000000005","1,005,690.8",117.5,225.2,"9,955.11","6,893.59",2.23,132,51.6,35.799999999999997,11.6,15.2,3.4,36.4,8.1999999999999993,,,"1517 Locust Street
+Kansas City, Missouri 64410
+(39.09505, -94.577631)",11,4,7,92
+,4472927,Fire Station 43,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"5,109",63416,Fire Station,Fire Station,1964,,,"451,000.2",,,88.3,,"788,591.7",,,154.4,,,,,,"6,769.58",,132,,45.9,,,,,,,,"12900 East 350 Highway
+Kansas City, Missouri 63416
+(38.966928, -94.432072)",214,2,7,98
+31-IS-06610,4472940,Police Dept. Crime Lab - Current,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"36,750",64131,Laboratory,Laboratory,1952,,"8,096,296.7999999998","1,822,757.9",344.2,220.3,49.6,"20,097,732.100000001","4,524,698.0999999996",344.2,546.9,123.1,"8,178,239.7999999998","20,021,195.5",222.5,544.79999999999995,"164,015.26999999999","36,925.550000000003",4.46,130.5,"1,469.3",330.8,40,135.30000000000001,3.7,"1,334",36.299999999999997,240.4,(SPNO) KS-Western MO,"6633 Troost Ave.
+Kansas City, Missouri 64131
+(39.007438, -94.574865)",96,2,7,163
+,4472751,Fire Station 37,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"6,790",64114,Fire Station,Fire Station,1958,,"505,902.6","658,613.4",-23.2,74.5,97,"805,049.2","1,048,059.9",-23.2,118.6,154.4,"523,316.1","823,333.5",77.099999999999994,121.3,"7,430.78","9,673.82",1.0900000000000001,122.2,51.4,66.900000000000006,7.6,19.899999999999999,2.9,31.5,4.5999999999999996,240.4,(SPNO) KS-Western MO,"7708 Wornall Road
+Kansas City, Missouri 64114
+(38.988266, -94.594389)",147,1,7,162
+,4472769,Fire Station 45,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"5,829",64145,Fire Station,Fire Station,1960,,"506,208.3","450,962.5",12.3,86.8,77.400000000000006,"1,009,948.5","899,726.2",12.3,173.3,154.4,,,,,"10,660.86","9,497.3700000000008",1.83,112.5,55,49,9.4,,,55,9.4,240.4,(SPNO) KS-Western MO,"524 East Blueridge Blvd.
+Kansas City, Missouri 64145
+(38.889796, -94.588166)",159,1,7,129
+38-IS-09310,4472746,Fire Station 41,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"14,952",64132,Fire Station,Fire Station,1960,,"1,126,400.8","1,235,874.3999999999",-8.9,75.3,82.7,"2,103,459.9","2,307,892.7000000002",-8.9,140.69999999999999,154.4,"1,187,367.8999999999","2,151,304.2000000002",79.400000000000006,143.9,"18,895.080000000002","20,731.47",1.26,109.5,142.30000000000001,156.19999999999999,9.5,36.4,2.4,105.9,7.1,240.4,(SPNO) KS-Western MO,"9300 Hillcrest Road
+Kansas City, Missouri 64132
+(38.956804, -94.520912)",35,2,7,98
+,4472768,Fire Station 38,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"5,470",64410,Fire Station,Fire Station,1959,,"474,927","452,072.3",5.0999999999999996,86.8,82.6,"886,998.1","844,313.3",5.0999999999999996,162.19999999999999,154.4,"491,865.59999999998","898,388.1",89.9,164.2,"9,080.9699999999993","8,643.9699999999993",1.66,106.5,45.9,43.7,8.4,15.4,2.8,30.6,5.6,,,"8100 Oak Trafficway
+Kansas City, Missouri 64410
+(39.241149, -94.575981)",243,5,4,154
+,4472782,Fire Station 25,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"5,326",64106,Fire Station,Fire Station,1956,,"816,083.7","452,563",80.3,153.19999999999999,85,"1,482,426.2","822,086.4",80.3,278.3,154.4,"860,517.8","1,520,515.2",161.6,285.5,"14,975.01","8,304.4599999999991",2.81,100.5,99.4,55.1,18.7,27.4,5.2,72,13.5,240.4,(SPNO) KS-Western MO,"401 East Missouri Avenue
+Kansas City, Missouri 64106
+(39.108161, -94.578468)",71,4,7,75
+08-IS-01610,4472941,Police Dept. Evidence and Juvenile Units,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"14,098",64108,Police Station,Police Station,1960,,"1,506,083.4","821,178.6",83.4,106.8,58.2,"3,991,032.6","2,176,074.7999999998",83.4,283.10000000000002,154.4,"1,538,086.6","3,982,249.8",109.1,282.5,"38,078.639999999999","20,762.04",2.7,69,295.89999999999998,161.4,21,18.8,1.3,277.2,19.7,240.4,(SPNO) KS-Western MO,"1525 Holmes St.
+Kansas City, Missouri 64108
+(39.094877, -94.575306)",11,4,7,92
+09-IS-03210,4472755,Mohart Center,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"61,611",64109,Recreation,Social/Meeting Hall,1960,,"3,380,157.5","2,293,495.7999999998",47.4,54.9,37.200000000000003,"6,341,496.5","4,302,815.5999999996",47.4,102.9,69.8,"3,599,400.6","6,520,204.0999999996",58.4,105.8,"69,793","47,355.76",1.1299999999999999,57,429.8,291.60000000000002,7,108.6,1.8,321.2,5.2,240.4,(SPNO) KS-Western MO,"3200 Wayne Avenue
+Kansas City, Missouri 64109
+(39.067553, -94.564473)",78,3,7,19
+53-IS-12210,4905993,Fire Station 05 KCI-AARF,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"14,930",64153,Fire Station,Fire Station,1960,,"1,669,575.9","2,194,759",-23.9,111.8,147,"1,753,054.7","2,304,496.9",-23.9,117.4,154.4,"1,794,457.7","1,884,180.6",120.2,126.2,,,,53.2,88.7,116.6,5.9,88.7,5.9,,,242,(SRMW) Middle Mississippi,"173 Ottawa Avenue
+Kansas City, Missouri 64153
+(39.303407, -94.722751)",203,5,3,130
+20-IS-01810,4472931,Fire Vehicle Parts and Maintenance Facility,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"10,500",64120,"Repair Services (Vehicle, Shoe, Locksmith, etc.)","Repair Services (Vehicle, Shoe, Locksmith, etc.)",1960,,"810,545.8","752,627.3",7.7,77.2,71.7,"1,135,228.8999999999","1,054,109.8",7.7,108.1,100.4,,,,,"10,745","9,977.2000000000007",1.02,52.5,32.700000000000003,30.4,3.1,,,32.700000000000003,3.1,240.4,(SPNO) KS-Western MO,"4951 Stillwell Avenue
+Kansas City, Missouri 64120
+(39.141349, -94.522068)",53,4,7,144
+53-IS-11210,4905983,KCI-Overhaul Base/CUP/Manufacturing Plant/Narrow Body Hanger/Super Hanger,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"15,163",64153,Manufacturing/Industrial Plant,Manufacturing/Industrial Plant,1960,,"149,034,026.09999999",,,"9,828.7999999999993",,"270,582,760.80000001",,,"17,844.900000000001",,"153,818,139.59999999","274,569,233.89999998","10,144.299999999999","18,107.8",,,,46.5,"18,225.900000000001",,"1,202","5,016.3",330.8,"13,209.7",871.2,242,(SRMW) Middle Mississippi,"9200 NW 112th St.
+Kansas City, Missouri 64153
+(39.296068, -94.686757)",203,5,3,130
+20-IS-01310,4949185,Blue River Water Treatment Complex,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"405,446",64120,Public Services,Wastewater Treatment Plant,1964,,"23,117,558.899999999",,,57,,"72,589,134.900000006",,,179,,"23,117,558.899999999","72,589,134.900000006",57,179,"610,968.52",,1.51,33,"5,558",,13.7,,,"5,558",13.7,240.4,(SPNO) KS-Western MO,"7300 Rochester Street
+Kansas City, Missouri 64120",,,,
+06-IS-01130,4923466,Garage-560 E. 11th St.,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"271,824",64106,Parking,Parking,2009,,"2,639,651.7999999998",,,9.6999999999999993,,"8,288,506.5",,,30.5,,"2,639,651.7999999998","8,288,506.5",9.6999999999999993,30.5,"72,226.7",,0.27,33,634.6,,2.2999999999999998,,,634.6,2.2999999999999998,240.4,(SPNO) KS-Western MO,"560 East 11th St.
+Kansas City, Missouri 64106
+(39.100888, -94.576496)",5,4,7,75
+53-IS-11900,4906004,KCI-Aviation Facilities Building,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"10,000",64153,Other Services,Other Services,1972,,"933,061.9","558,417.19999999995",67.099999999999994,93.3,55.8,"1,677,445","1,003,914.1",67.099999999999994,167.7,100.4,"975,416.2","1,724,131.7",97.5,172.4,,,,18.8,112.6,67.400000000000006,11.3,31.8,3.2,80.8,8.1,242,(SRMW) Middle Mississippi,"711 Mexico City Ave.
+Kansas City, Missouri 64153
+(39.309064, -94.717322)",203,5,3,130
+23-IS-00100,4472733,Kansas City Museum,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"13,964",64123,Museum,Museum,1909,,"4,028,994.1","648,924.9",520.9,288.5,46.5,"7,378,719","1,188,444.2",520.9,528.4,85.1,"4,241,334.4000000004","7,539,059.7000000002",303.7,539.9,"68,005.53","10,953.23",4.87,6.8,496.2,79.900000000000006,35.5,134,9.6,362.2,25.9,240.4,(SPNO) KS-Western MO,"3218 Gladstone Blvd
+Kansas City, Missouri 64123
+(39.115317, -94.542455)",202,4,7,76
+,4472934,Hazardous Waste and Recycling Center,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"1,600",64120,Other,Non-Refrigerated Warehouse,1960,,"878,699","54,232.5","1,520.2",549.20000000000005,33.9,"1,554,490.2","95,941.6","1,520.2",971.6,60,"929,750.4","1,596,608.3",581.1,997.9,"15,805.67",975.51,9.8800000000000008,6,103.3,6.4,64.599999999999994,30.6,19.100000000000001,72.7,45.4,240.4,(SPNO) KS-Western MO,"4739 Deramus
+Kansas City, Missouri 64120
+(39.138312, -94.523397)",53,4,7,144
+61-IS-02810,4951625,Birmingham Water Treatment Complex,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"150,000",64161,Wastewater Treatment Plant,Wastewater Treatment Plant,1960,,"11,510,579.6",,,76.7,,"36,143,219.799999997",,,241,,"11,636,302.1","36,537,988.700000003",77.599999999999994,243.6,"287,776.53000000003",,1.92,4.5,"2,767.4",,18.399999999999999,,,"2,767.4",18.399999999999999,240.4,(SPNO) KS-Western MO,"10801 NE 28th, Dp01
+Kansas City, Missouri 64161
+(39.143876, -94.454548)",138,6,4,89
+53-IS-11730,4906000,KCI-Glycol Building,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"54,764",64153,Public Services,Public Services,1960,,"620,103.69999999995","2,147,324.7000000002",-71.099999999999994,11.3,39.200000000000003,"1,947,125.7","6,742,600.5",-71.099999999999994,35.6,123.1,"620,103.69999999995","1,947,125.7",11.3,35.6,"16,244.39","56,251.86",0.3,4.5,150,519.6,2.7,,,150,2.7,242,(SRMW) Middle Mississippi,"218 Bogota St.
+Kansas City, Missouri 64153
+(39.302925, -94.721873)",203,5,3,130
+02-IS-01610,4905842,Kemper Garage - West Bottoms,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"359,100",64102,Parking,Parking,1960,,"1,690,376.1",,,4.7,,"5,307,781",,,14.8,,"1,705,369.2","5,354,859.0999999996",4.7,14.9,"42,719.32",,0.12,4.5,406.4,,1.1000000000000001,,,406.4,1.1000000000000001,240.4,(SPNO) KS-Western MO,"1601 Stateline
+Kansas City, Missouri 64102
+(39.093411, -94.607007)",241,4,7,20
+05-IS-01810,4949186,Westside Water Treatment Complex,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"150,000",64105,Public Services,Wastewater Treatment Plant,1977,,,,,,,,,,,,,,,,,,,1,,,,,,"3,478.4",23.2,240.4,(SPNO) KS-Western MO,"1849 Woodsweather Road
+Kansas City, Missouri 64105
+(39.10989, -94.607314)",,,5,73
+29-IS-05110,4472787,EMS Fire Dept. Facility,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"84,840",64129,Fire Station,Fire Station,1997,,"6,028,284.0999999996","5,054,317.7",19.3,71.099999999999994,59.6,"15,618,815.800000001","13,095,346",19.3,184.1,154.4,"6,189,561.7000000002","15,701,910.800000001",73,185.1,"127,633.19","107,011.99",1.5,0.8,"1,152.7",966.5,13.6,84.1,1,"1,068.5999999999999",12.6,240.4,(SPNO) KS-Western MO,"7650 Eastwood Trafficway
+Kansas City, Missouri 64129
+(39.031586, -94.496765)",19,3,7,155
+57-IS-08900,4941059,Shoal Creek Golf Course Clubhouse,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"15,000",64157,Recreation,Recreation,1960,,"830,941.4","462,504.3",79.7,55.4,30.8,"2,609,156","1,452,263.5",79.7,173.9,96.8,"810,568.8","2,545,185.9",54,169.7,"30,659.27","17,065.03",2.04,0.3,201.1,111.9,13.4,,,201.1,13.4,242,(SRMW) Middle Mississippi,"8905 Shoal Creek Parkway
+Kansas City, Missouri 64157
+(39.256051, -94.487252)",244,6,4,152
+16-IS-03500,4949188,Briarcliff Water Treatment Plant,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"150,000",64116,Wastewater Treatment Plant,Wastewater Treatment Plant,1960,,"3,945,419.8",,,1.2,,"4,142,690.7",,,1.3,,"4,177,287.7","4,386,152.0999999996",1.3,1.4,"31,559.67",,0.01,0.2,209.6,,0.1,209.6,0.1,,,240.4,(SPNO) KS-Western MO,"1 NW Briarcliff Rd.
+Kansas City, Missouri 64116
+(39.170368, -94.58148)",62,4,4,167
+53-IS-11720,4906003,KCI-Equipment Storage Building,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"78,000",64153,Non-Refrigerated Warehouse,Non-Refrigerated Warehouse,1960,52,"4,916,615.0999999996","5,093,818.8",-3.5,63,65.3,"5,820,032.7000000002","6,029,797.0999999996",-3.5,74.599999999999994,77.3,"5,283,342","6,205,096",67.7,79.599999999999994,,,,0,320.60000000000002,332.1,4.0999999999999996,244.4,3.1,76.099999999999994,1,242,(SRMW) Middle Mississippi,"2 N. Manila Square
+Kansas City, Missouri 64153",,,,
+57-IS-06810,4472756,Shoal Creek Police Patrol Station,4950792,Police Dept. Shoal Creek Cmapus,2015,"23,234",64157,Police Station,Police Station,2013,,"1,839,841.4","1,142,117",61.1,79.2,49.2,"5,777,102","3,586,247.9",61.1,248.6,154.4,"1,839,841.4","5,777,102",79.2,248.6,"48,074.87","29,843.41",2.0699999999999998,,445.2,276.39999999999998,19.2,,,445.2,19.2,242,(SRMW) Middle Mississippi,"6801 NE Pleasant Valley Road
+Kansas City, Missouri 64157
+(39.21658, -94.499005)",187,6,4,135
+06-IS-01110,4472725,Communications Center,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"139,426",64106,Mixed Use Property,Other,1960,,"19,915,629.699999999",,,142.80000000000001,,"49,507,437.399999999",,,355.1,,"20,049,783.699999999","49,928,681.200000003",143.80000000000001,358.1,"439,176.34","152,280.57",3.15,,"3,645.4","1,264",26.1,,,"3,645.4",26.1,240.4,(SPNO) KS-Western MO,"1111 Locust Street
+Kansas City, Missouri 64106
+(39.10079, -94.577335)",5,4,7,75
+27-IS-02720,4905988,Police Dept. Vehicle Maintenance Facility,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"21,500",64127,"Repair Services (Vehicle, Shoe, Locksmith, etc.)","Repair Services (Vehicle, Shoe, Locksmith, etc.)",1960,,"2,406,996.7000000002","968,070.6",148.6,112,45,"5,366,652.5999999996","2,158,415.2999999998",148.6,249.6,100.4,"2,503,296.9","5,467,767.7999999998",116.4,254.3,"46,916.44","18,869.330000000002",2.1800000000000002,,382.3,153.80000000000001,17.8,55.7,2.6,326.60000000000002,15.2,240.4,(SPNO) KS-Western MO,"5217 E. 27th St.
+Kansas City, Missouri 64127
+(39.076136, -94.522425)",107,3,7,95
+29-IS-04500,4905989,Police Dept. Helicopter and K-9 Unit,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"7,000",64129,Police Station,Police Station,1960,,"501,068","344,100",45.6,71.599999999999994,49.2,"1,573,353.6","1,080,474.1000000001",45.6,224.8,154.4,"504,484.4","1,584,081",72.099999999999994,226.3,"14,489.32","9,950.2900000000009",2.0699999999999998,,120.5,82.7,17.2,,,120.5,17.2,240.4,(SPNO) KS-Western MO,"4601 Eastern Ave.
+Kansas City, Missouri 64129
+(39.043984, -94.498988)",19,3,7,155
+05-IS-01710,4472732,Garage-1621 Broadway,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"332,200",64108,Parking,Parking,2011,,"3,246,082.3",,,9.8000000000000007,,"10,192,698.6",,,30.7,,"3,263,550","10,247,546.9",9.8000000000000007,30.8,"92,554.65",,0.28000000000000003,,780.4,,2.2999999999999998,,,780.4,2.2999999999999998,240.4,(SPNO) KS-Western MO,"1621 Broadway
+Kansas City, Missouri 64108
+(39.093743, -94.588709)",149,4,7,92
+09-IS-01210,4472939,Police Dept. Central Patrol,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"18,310",64109,Police Station,Police Station,1994,,"2,630,170.5","1,197,348.5",119.7,143.6,65.400000000000006,"6,208,233.4000000004","2,826,211.5",119.7,339.1,154.4,"2,685,408.7","6,218,571.7999999998",146.69999999999999,339.6,"52,736.21","24,007.43",2.88,,448.6,204.2,24.5,52.1,2.8,396.5,21.7,240.4,(SPNO) KS-Western MO,"1200 E. Linwood Blvd.
+Kansas City, Missouri 64109
+(39.068631, -94.569897)",123,3,7,19
+30-IS-04510,4472786,SPEC Building,4950660,Public Works District 3,2015,"25,848",64129,Public Services,Other,1976,,"619,945","1,013,513.4",-38.799999999999997,24,39.200000000000003,"1,946,627.4","3,182,432.6",-38.799999999999997,75.3,123.1,"611,618.9","1,920,483.5",23.7,74.3,"22,172.63","36,248.79",0.86,,149,243.7,5.8,,,149,5.8,240.4,(SPNO) KS-Western MO,"4721 Coal Mine Road
+Kansas City, Missouri 64129
+(39.042016, -94.513133)",20,3,7,155
+30-IS-06320,4905976,Terry R. Dopson Building - Parks HQ,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"52,500",64130,Office,Office,1960,33,"5,915,171.2000000002","4,968,194.2",19.100000000000001,112.7,94.6,"13,617,745.4","11,437,640.5",19.100000000000001,259.39999999999998,217.9,"6,059,622.5","13,582,770.5",115.4,258.7,"127,315.31","106,933.04",2.4300000000000002,,978,821.4,18.600000000000001,125.9,2.4,852,16.2,240.4,(SPNO) KS-Western MO,"4600 E. 63rd St.
+Kansas City, Missouri 64130",,,,
+02-IS-02010,4472760,Exhibition Hall,4947959,American Royal Complex,2015,"46,000",64102,Convention Center,Other,1973,,"2,677,407","1,803,683.8",48.4,58.2,39.200000000000003,"8,407,057.9000000004","5,663,567.7000000002",48.4,182.8,123.1,"2,677,407","8,407,057.9000000004",58.2,182.8,"115,444.55","77,771.31",2.5099999999999998,,643.70000000000005,433.6,14,,,643.70000000000005,14,240.4,(SPNO) KS-Western MO,"1701 American Royal Ct.
+Kansas City, Missouri 64102
+(39.090674, -94.603875)",241,4,7,20
+,4905995,Police Dept. Service Station,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"1,170",64127,Police Station,Police Station,1960,,,"103,282.5",,,88.3,,"180,593.5",,,154.4,,,,,,"1,550.29",,,,13.9,,,,34.299999999999997,29.3,240.4,(SPNO) KS-Western MO,"1245 Prospect Ave.
+Kansas City, Missouri 64127
+(39.097808, -94.551464)",109,3,7,95
+32-IS-06610,4919703,Battle of Westport Museum & Visitor Center,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"10,530",64132,Museum,Museum,1906,,"1,186,074.3","446,228.6",165.8,112.6,42.4,"2,382,055","896,184.3",165.8,226.2,85.1,"1,278,653.8","2,499,086.2999999998",121.4,237.3,,,,,164.9,62,15.7,34.1,3.2,130.80000000000001,12.4,240.4,(SPNO) KS-Western MO,"6601 Swope Parkway
+Kansas City, Missouri 64132
+(39.007262, -94.542334)",52,2,7,151
+,4472748,Fire Station 28,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"6,770",64131,Fire Station,Fire Station,1969,,"566,466","537,561.59999999998",5.4,83.7,79.400000000000006,"1,101,160.3999999999","1,044,972.8",5.4,162.69999999999999,154.4,"589,824","1,117,317.3999999999",87.1,165,"11,033.48","10,470.49",1.63,,75.5,71.599999999999994,11.1,17.2,2.5,58.3,8.6,240.4,(SPNO) KS-Western MO,"930 East Red Bridge Road
+Kansas City, Missouri 64131
+(38.925551, -94.580025)",95,1,7,163
+55-IS-08310,4472938,Police Dept. North Patrol,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"12,090",64155,Police Station,Police Station,1960,,"1,932,325.2","594,309.80000000005",225.1,159.80000000000001,49.2,"6,067,501.0999999996","1,866,133.1",225.1,501.9,154.4,"1,953,063.1","6,132,618.0999999996",161.5,507.2,"48,702.32","14,978.98",4.03,,467.6,143.80000000000001,38.700000000000003,,,467.6,38.700000000000003,242,(SRMW) Middle Mississippi,"1001 NW Barry Rd
+Kansas City, Missouri 64155
+(39.245999, -94.594667)",59,5,4,154
+32-IS-06910,4472936,Swope Park Greenhouse,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"23,375",64132,Other,Other,1960,,,"1,842,413.6",,,78.8,,"2,877,954.2",,,123.1,,,,,,"27,654.9",,,,248.4,,,,66.099999999999994,2.8,240.4,(SPNO) KS-Western MO,"6901 Elmwood
+Kansas City, Missouri 64132
+(39.001076, -94.533345)",111,2,7,151
+08-IS-01620,4919695,Gregg-Klice Community Center,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"34,290",64106,Recreation,Recreation,1997,,"3,761,719.4","1,057,284.7",255.8,109.7,30.8,"11,811,798.9","3,319,874.4",255.8,344.5,96.8,"3,836,266.9","12,045,878.1",111.9,351.3,"115,616.84","32,495.75",3.37,,904.4,254.2,26.4,,,904.4,26.4,240.4,(SPNO) KS-Western MO,"1600 East 17th Terrace
+Kansas City, Missouri 64106
+(39.092038, -94.562455)",54,3,7,92
+02-IS-02030,4940016,Convention Center Complex,4940016,Convention Center Complex,2015,"1,791,008",64105,Convention Center,Convention Center,1976,,"68,982,035.799999997","57,727,982.799999997",19.5,38.5,32.200000000000003,"149,465,743.69999999","125,081,188.2",19.5,83.5,69.8,"72,928,755.200000003","154,168,874",40.700000000000003,86.1,"3,453,432.51","2,890,023.3",1.93,,"10,554.1","8,832.2000000000007",5.9,105.8,0.1,"10,448.299999999999",5.8,240.4,(SPNO) KS-Western MO,"301 W. 13th St.
+Kansas City, Missouri 64105
+(39.0988, -94.58697)",5,4,7,72
+11-IS-03710,4472770,Westport Roanoke Community Center,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"11,463",64111,Recreation,Recreation,1962,,"2,352,421.4","508,228.2",362.9,205.2,44.3,"5,136,990.9000000004","1,109,819.8",362.9,448.1,96.8,"2,422,924.5","5,211,019.0999999996",211.4,454.6,"30,913.73","6,678.75",2.7,,364,78.599999999999994,31.8,57.2,5,306.8,26.8,240.4,(SPNO) KS-Western MO,"3601 Roanoke
+Kansas City, Missouri 64111
+(39.061962, -94.6039)",232,4,7,50
+65-IS-13210,4949189,Rocky Branch Treatment Plant,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"150,000",64165,Public Services,Wastewater Treatment Plant,2005,,,,,,,,,,,,,,,,,,,,,,,,,,,242,(SRMW) Middle Mississippi,"500 NE 132nd St.
+Kansas City, Missouri 64165
+(39.332603, -94.572898)",180,5,4,131
+34-IS-10410,4472774,Hillcrest Community Center,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"21,838",64134,Recreation,Recreation,1995,,"1,693,844.9","673,344.5",151.6,77.599999999999994,30.8,"5,318,672.9000000004","2,114,302.1",151.6,243.6,96.8,"1,693,844.9","5,318,672.9000000004",77.599999999999994,243.6,"49,687.77","19,752.099999999999",2.2799999999999998,,407.2,161.9,18.600000000000001,,,407.2,18.600000000000001,240.4,(SPNO) KS-Western MO,"10401 Hillcrest Rd.
+Kansas City, Missouri 64134
+(38.935749, -94.522681)",108,1,7,143
+06-IS-01210,4472726,Police Dept. Headquarters,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"93,964",64106,Police Station,Police Station,1960,,"12,888,378.4","9,049,819.5999999996",42.4,137.19999999999999,96.3,"20,655,520.100000001","14,503,666.800000001",42.4,219.8,154.4,"13,228,880.9","21,095,671",140.80000000000001,224.5,"272,420.98","191,285.56",2.9,,"1,340.5",941.3,14.3,,,"1,340.5",14.3,240.4,(SPNO) KS-Western MO,"1125 Locust Street
+Kansas City, Missouri 64106
+(39.100621, -94.577345)",5,4,7,75
+05-IS-01340,4927960,Garage-151 E. 13th St.,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"268,248",64106,Parking,Parking,1960,,"1,993,752.7",,,7.4,,"6,260,383.4000000004",,,23.3,,"1,993,752.7","6,260,383.4000000004",7.4,23.3,"52,109.07",,0.19,,479.3,,1.8,,,479.3,1.8,240.4,(SPNO) KS-Western MO,"151 East 13th St.
+Kansas City, Missouri 64106
+(39.098565, -94.581631)",5,4,7,75
+32-IS-06710,4905996,Parks South District Maintenance Facility,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"16,102",64132,Mixed Use Property,Public Services,2001,,"409,258","631,367.69999999995",-35.200000000000003,25.4,39.200000000000003,"1,285,070.2","1,982,494.9",-35.200000000000003,79.8,123.1,"409,258","1,285,070.2",25.4,79.8,"15,749.39","24,296.78",0.98,,98.4,151.80000000000001,6.1,,,98.4,6.1,240.4,(SPNO) KS-Western MO,"6901 Elmwood
+Kansas City, Missouri 64132
+(39.001076, -94.533345)",111,2,7,151
+,4933246,KCI-Export Facility,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"7,984",64153,Distribution Center,Distribution Center,1960,42,"432,221.8","389,763.6",10.9,54.1,48.8,"453,832.9","409,251.8",10.9,56.8,51.3,"476,182.6","499,991.7",59.6,62.6,,,,,23,20.7,2.9,23,2.9,,,242,(SRMW) Middle Mississippi,"12600 NW Prairie View Rd.
+Kansas City, Missouri 64153
+(39.324132, -94.712174)",203,5,3,133
+32-IS-07610,4472929,Police Dept. Metro Patrol Garage 1,4939991,PD Metro Patrol Campus,2015,"7,604",64132,Parking,Parking,1960,,"95,131.4",,,12.5,,"298,712.5",,,39.299999999999997,,"95,131.4","298,712.5",12.5,39.299999999999997,"2,646.78",,0.35,,22.9,,3,,,22.9,3,240.4,(SPNO) KS-Western MO,"7601 Prospect Ave.
+Kansas City, Missouri 64132
+(38.987189, -94.557459)",154,2,7,151
+32-IS-07210,4472935,Lakeside Nature Center,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"17,000",64132,Recreation,Museum,1999,,"1,529,394.9","460,774.2",231.9,90,27.1,"4,802,300.0999999996","1,446,831.2",231.9,282.5,85.1,"1,624,683.4","5,101,505.9000000004",95.6,300.10000000000002,"50,836.79","15,316.05",2.99,,367.7,110.8,21.6,,,367.7,21.6,240.4,(SPNO) KS-Western MO,"4701 E. Gregory Blvd.
+Kansas City, Missouri 64132
+(38.996878, -94.532036)",131,2,7,151
+53-IS-11220,4906001,KCI-Police Station,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"44,381",64153,Police Station,Police Station,1972,,"1,550,567.1","5,973,988",-74,34.9,134.6,"1,778,032.1","6,850,360.0999999996",-74,40.1,154.4,"1,695,992.4","1,939,328.6",38.200000000000003,43.7,,,,,95.9,369.5,2.2000000000000002,78.5,1.8,17.399999999999999,0.4,242,(SRMW) Middle Mississippi,"1 International Square
+Kansas City, Missouri 64153
+(39.298043, -94.716973)",203,5,3,130
+37-IS-09710,4949184,PD South Patrol  Multipurpose Building,4950770,Police Dept. South Patrol Campus,2015,"32,000",64137,Police Station,Police Station,1960,,"1,758,461.1","1,573,028.5",11.8,55,49.2,"5,521,568","4,939,310.0999999996",11.8,172.5,154.4,"1,758,461.1","5,521,568",55,172.5,"49,508.43","44,287.69",1.55,,422.8,378.2,13.2,,,422.8,13.2,240.4,(SPNO) KS-Western MO,"9701 Marion Park Dr.
+Kansas City, Missouri 64137
+(38.948456, -94.5357)",178,2,7,149
+,4472759,Shoal Creek Police Garage,4950792,Police Dept. Shoal Creek Cmapus,2015,960,64157,Parking,Other,2013,,"18,542.900000000001","37,642.1",-50.7,19.3,39.200000000000003,"58,224.7","118,196.2",-50.7,60.7,123.1,"18,410.3","57,808.3",19.2,60.2,"2,960.46","6,009.75",3.08,,4.5,9.1,4.7,,,4.5,4.7,242,(SRMW) Middle Mississippi,"6891 NE Pleasant Valley Road
+Kansas City, Missouri 64157
+(39.21659, -94.498142)",244,6,4,135
+53-IS-12510,4929847,KCI-Fleet Maintenance Facility,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"36,935",64153,"Repair Services (Vehicle, Shoe, Locksmith, etc.)","Repair Services (Vehicle, Shoe, Locksmith, etc.)",1960,,"2,193,232.6","3,531,387.4",-37.9,59.4,95.6,"2,302,894.2000000002","3,707,956.6",-37.9,62.3,100.4,"2,348,966.7999999998","2,466,415.1",63.6,66.8,,,,,116.5,187.6,3.2,116.5,3.2,,,242,(SRMW) Middle Mississippi,"125 Paris
+Kansas City, Missouri 64153
+(39.30387, -94.721653)",203,5,3,130
+05-IS-00310,4927958,Garage-300 Wyandotte,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"93,825",64105,Parking,Parking,1960,,"1,108,640.3",,,11.8,,"3,481,130.4",,,37.1,,"1,116,264.7","3,505,071.3",11.9,37.4,"26,304.5",,0.28000000000000003,,266.5,,2.8,,,266.5,2.8,240.4,(SPNO) KS-Western MO,"300 Wyandotte St.
+Kansas City, Missouri 64105
+(39.109368, -94.585808)",71,4,7,72
+53-IS-12800,4905978,KCI-Field Maintenance North,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"57,472",64153,Other,Other,1993,,"4,081,480","3,784,660.3",7.8,71,65.900000000000006,"7,630,962.9000000004","7,076,012.2000000002",7.8,132.80000000000001,123.1,"4,353,131.5999999996","7,916,197.2000000002",75.7,137.69999999999999,,,,,519.1,481.3,9,131.80000000000001,2.2999999999999998,387.3,6.7,242,(SRMW) Middle Mississippi,"154 Tokyo Avenue
+Kansas City, Missouri 64153
+(39.323646, -94.715122)",203,5,3,133
+,4905985,Former Southeast Community Center,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"4,040",64130,Recreation,Recreation,1960,,,"166,423.20000000001",,,41.2,,"391,143",,,96.8,,,,,,"2,330.02",,,,20.2,,,,,,240.4,(SPNO) KS-Western MO,"3601 E. 63rd St.
+Kansas City, Missouri 64130
+(39.011913, -94.544175)",168,2,7,151
+32-IS-07510,4905994,Police Dept. Mounted Patrol,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"23,900",64132,Police Station,Police Station,1960,,"557,273.69999999995","1,174,855.7",-52.6,23.3,49.2,"1,749,839.3","3,689,047.3",-52.6,73.2,154.4,"583,503.30000000005","1,832,200.3",24.4,76.7,"9,573.59","20,183.23",0.4,,134,282.5,5.6,,,134,5.6,240.4,(SPNO) KS-Western MO,"7331 Oakwood
+Kansas City, Missouri 64132",,,,
+63-IS-14410,4949187,Todd Creek Water Treatment Complex,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"150,000",64163,Public Services,Wastewater Treatment Plant,1977,,"9,203,537.5999999996",,,61.4,,"28,899,108.100000001",,,192.7,,"9,203,537.5999999996","28,899,108.100000001",61.4,192.7,"217,041.43",,1.45,,"2,227",,14.8,,,"2,227",14.8,242,(SRMW) Middle Mississippi,"7600 NW 144th Street
+Kansas City, Missouri 64163",,,,
+57-IS-06820,4472758,Shoal Creek Police Pistol Range,4950792,Police Dept. Shoal Creek Cmapus,2015,"23,270",64157,Police Station,Public Services,2006,,"1,190,498","912,428.7",30.5,51.2,39.200000000000003,"3,738,163.9","2,865,026.5",30.5,160.6,123.1,"1,190,498","3,738,163.9",51.2,160.6,"40,347.56","30,923.42",1.73,,288.10000000000002,220.8,12.4,,,288.10000000000002,12.4,242,(SRMW) Middle Mississippi,"6889 NE Pleasant Valley Road
+Kansas City, Missouri 64157
+(39.21659, -94.498161)",244,6,4,135
+20-IS-01610,4905975,MSC Facility,4947917,MSC Complex,2015,"258,000",64120,Office,Public Services,1987,,"15,653,759.699999999","14,227,931.300000001",10,60.7,55.1,"34,948,523.399999999","31,765,227.5",10,135.5,123.1,"16,664,575.1","35,928,328.600000001",64.599999999999994,139.30000000000001,"288,204.32","261,953.11",1.1200000000000001,,"2,490.5","2,263.6999999999998",9.6999999999999993,361,1.4,"2,129.5",8.3000000000000007,240.4,(SPNO) KS-Western MO,"5300 Municipal Avenue
+Kansas City, Missouri 64120
+(39.134393, -94.521654)",53,4,7,144
+16-IS-03920,4472775,Kansas City North Community Center,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"19,522",64117,Recreation,Recreation,1950,,"1,528,835.1","909,430.9",68.099999999999994,78.3,46.6,"3,177,381.8","1,890,072.6",68.099999999999994,162.80000000000001,96.8,"1,642,399.7","3,284,327.1",84.1,168.2,"32,349.88","19,243.400000000001",1.66,,222.1,132.1,11.4,41.3,2.1,180.8,9.3000000000000007,240.4,(SPNO) KS-Western MO,"3930 N.E. Antioch Rd.
+Kansas City, Missouri 64117
+(39.165222, -94.548564)",86,6,4,167
+,4472761,Power Plant,4947959,American Royal Complex,2015,"9,000",64102,Energy/Power Station,Other,1973,,"2,213,674.5","352,894.6",527.29999999999995,246,39.200000000000003,"6,950,937.7999999998","1,108,089.3",527.29999999999995,772.3,123.1,"2,155,871.6","6,769,436.7999999998",239.5,752.2,"153,706.32999999999","24,503.22",17.079999999999998,,532.20000000000005,84.8,59.1,,,532.20000000000005,59.1,240.4,(SPNO) KS-Western MO,"1703 American Royal Ct.
+Kansas City, Missouri 64102
+(39.090639, -94.603819)",241,4,7,20
+27-IS-02710,4472937,Police Dept. East Patrol (Former),Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"21,500",64127,Police Station,Police Station,1960,,"1,685,004.3","1,274,219.2",32.200000000000003,78.400000000000006,59.3,"4,388,455.0999999996","3,318,599",32.200000000000003,204.1,154.4,"1,715,991.4","4,370,408.8",79.8,203.3,"40,187.550000000003","30,390.28",1.87,,324.2,245.2,15.1,22.9,1.1000000000000001,301.3,14,240.4,(SPNO) KS-Western MO,"5215 E. 27th St.
+Kansas City, Missouri 64127
+(39.076104, -94.521546)",107,3,7,95
+30-IS-06110,4905999,Water Services Department IT Building,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"152,782",64130,Office,Office,2000,9,"1,583,220.6","934,140.1",69.5,98.3,58,"4,178,607","2,465,483.5",69.5,259.5,153.1,"1,634,826.3","4,232,792.9000000004",101.5,262.8,"33,145.81","19,556.86",2.06,,309.60000000000002,182.7,19.2,20.100000000000001,1.3,289.5,18,240.4,(SPNO) KS-Western MO,"4700 E. 63rd Trafficway
+Kansas City, Missouri 64130
+(39.012515, -94.531192)",170,2,7,157
+05-IS-014-10,4927962,Garage-1398 Main St.,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"41,770",64105,Parking,Parking,1960,,"725,712.6",,,17.399999999999999,,"2,278,737.6",,,54.6,,"725,712.6","2,278,737.6",17.399999999999999,54.6,"18,287.03",,0.44,,174.5,,4.2,,,174.5,4.2,240.4,(SPNO) KS-Western MO,"1398 Main St.
+Kansas City, Missouri 64105
+(39.097246, -94.583315)",5,4,7,75
+,4905982,KCI-Fuel/Wash Facility,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"3,000",64153,Non-Refrigerated Warehouse,Non-Refrigerated Warehouse,1960,,"1,501,679","82,714.8","1,715.5",500.6,27.6,"3,265,894.9","179,890.5","1,715.5","1,088.5999999999999",60,"1,537,265.1","3,303,260.4",512.4,"1,101.0999999999999",,,,,232.4,12.8,77.5,36.799999999999997,12.3,195.6,65.2,242,(SRMW) Middle Mississippi,"194 Bogota Street
+Kansas City, Missouri 64153
+(39.302858, -94.721514)",203,5,3,130
+02-IS-02020,4472762,Governor's Building,4947959,American Royal Complex,2015,"128,925",64102,Convention Center,Social/Meeting Hall,1973,,"2,251,013.2000000002","2,867,490",-21.5,17.5,22.2,"7,068,181.5999999996","9,003,919.6999999993",-21.5,54.8,69.8,"2,251,013.2000000002","7,068,181.5999999996",17.5,54.8,"94,472.12","120,344.82",0.73,,541.20000000000005,689.4,4.2,,,541.20000000000005,4.2,240.4,(SPNO) KS-Western MO,"1703 American Royal Ct.
+Kansas City, Missouri 64102
+(39.090639, -94.603819)",241,4,7,20
+08-IS-02120,4472771,Tony Aguirre Community Center,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"24,505",64108,Recreation,Recreation,2000,,"5,814,637.7000000002","1,549,305.1",275.3,237.3,63.2,"8,904,193.9000000004","2,372,514.5",275.3,363.4,96.8,"6,055,153.4000000004","9,112,147.8000000007",247.1,371.8,"71,133.16","18,953.37",2.9,,559.70000000000005,149.1,22.8,237.7,9.6999999999999993,322,13.1,240.4,(SPNO) KS-Western MO,"2050 West Penway
+Kansas City, Missouri 64108
+(39.088497, -94.594598)",149,4,7,92
+60-IS-11810,4949190,Fishing River Water Treatment Plant,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"150,000",64060,Public Services,Wastewater Treatment Plant,2000,,"5,285,698.5999999996",,,35.200000000000003,,"16,597,093.6",,,110.6,,"5,285,698.5999999996","16,597,093.6",35.200000000000003,110.6,"137,153.09",,0.91,,"1,279",,8.5,,,"1,279",8.5,242,(SRMW) Middle Mississippi,"10600 NE 118th St.
+Kansas City, Missouri 64060",,,,
+30-IS-04810,4472932,Brush Creek Community Center,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"14,219",14219,Recreation,Recreation,1996,,"1,120,624.8","445,217.1",151.69999999999999,78.8,31.3,"3,465,067.2","1,376,649",151.69999999999999,243.7,96.8,"1,120,624.8","3,465,067.2",78.8,243.7,"34,558.01","13,729.67",2.4300000000000002,,81.2,32.299999999999997,5.7,1.4,0.1,79.8,5.6,72.900000000000006,(NYUP) Upstate NY,"3801 Emanuel Clever II Blvd.
+Kansas City, Missouri 14219
+(39.03862, -94.542187)",175,3,7,157
+51-IS-06000,4472773,Line Creek Community Center,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"33,237",64151,Recreation,Recreation,1996,,"4,399,886.9000000004","1,037,252",324.2,132.4,31.2,"13,650,018","3,217,925.5",324.2,410.7,96.8,,,,,"132,731.19","31,290.74",3.99,,"1,038.8",244.9,31.3,,,"1,038.8",31.3,240.4,(SPNO) KS-Western MO,"2601 NW 60th St.
+Kansas City, Missouri 64151
+(39.203107, -94.612613)",152,5,3,66
+06-IS-00500,4472784,Garrison Community Center,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"13,913",64106,Recreation,Recreation,1960,,"1,455,997.3","784,453.7",85.6,104.7,56.4,"2,500,162.2999999998","1,347,022.8",85.6,179.7,96.8,"1,578,967.3","2,631,135",113.5,189.1,"25,096.33","13,521.25",1.8,,164.4,88.6,11.8,52.6,3.8,111.7,8,240.4,(SPNO) KS-Western MO,"1124 East 5th Street
+Kansas City, Missouri 64106
+(39.11089, -94.569364)",102,4,7,75
+06-IS-01240,4927959,Garage-1220 Walnut,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"224,865",64106,Parking,Parking,1960,,"2,531,349.5",,,11.3,,"7,948,437.4000000004",,,35.299999999999997,,"2,560,070","8,038,619.9000000004",11.4,35.700000000000003,"62,722",,0.28000000000000003,,608.6,,2.7,,,608.6,2.7,240.4,(SPNO) KS-Western MO,"1220 Walnut St.
+Kansas City, Missouri 64106
+(39.09919, -94.582122)",5,4,7,75
+,4472772,Marlborough Community Center,Not Applicable: Standalone Property,Not Applicable: Standalone Property,2015,"8,265",64131,Recreation,Recreation,1960,,"447,924.2","408,162.8",9.6999999999999993,54.2,49.4,"878,149","800,197.2",9.6999999999999993,106.2,96.8,"479,608.6","900,468.5",58,108.9,"11,152.82","10,162.81",1.35,,60.3,55,7.3,13.4,1.6,46.9,5.7,240.4,(SPNO) KS-Western MO,"8200 Paseo
+Kansas City, Missouri 64131
+(38.978826, -94.56708)",205,2,7,151
+32-IS-07620,4472930,Police Dept. Metro Patrol Garage 2,4939991,PD Metro Patrol Campus,2015,"7,604",64132,Parking,Parking,1960,,"174,632.4",,,23,,"548,345.59999999998",,,72.2,,"172,662.39999999999","542,160",22.7,71.3,"7,291.03",,0.96,,42,,5.5,,,42,5.5,240.4,(SPNO) KS-Western MO,"7601 Prospect Ave.
+Kansas City, Missouri 64132
+(38.987189, -94.557459)",154,2,7,151
+37-IS-09720,4907110,PD South Patrol West Outbuilding (Vehicle Maintenance Bldg G),4950770,Police Dept. South Patrol Campus,2015,"11,108",64137,"Repair Services (Vehicle, Shoe, Locksmith, etc.)","Repair Services (Vehicle, Shoe, Locksmith, etc.)",1960,,"716,787","732,829.3",-2.2000000000000002,64.5,66,"1,090,736.2","1,115,147.8",-2.2000000000000002,98.2,100.4,"767,320.9","1,145,648.5",69.099999999999994,103.1,"9,962.61","10,185.59",0.9,,68.400000000000006,69.900000000000006,6.2,29.5,2.7,38.9,3.5,240.4,(SPNO) KS-Western MO,"9701 Marion Park Dr.
+Kansas City, Missouri 64137
+(38.948456, -94.5357)",178,2,7,149
