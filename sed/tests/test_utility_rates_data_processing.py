@@ -1,9 +1,8 @@
 import numpy as np
 import pandas as pd
 import unittest
-import utility_rates_data_processing as urdp
 import glob
-from sed import utility_rates_data_processing as edp
+from sed import utility_rates_data_processing as urdp
 
 test_df = pd.read_csv('test_utility_rate_data.csv')
 
