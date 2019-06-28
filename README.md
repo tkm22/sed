@@ -56,10 +56,3 @@ The project has the following structure:
       |- ipynb/
          |- ...
 
-### Documentation
-TBD
-
-### Installation
-
-TBD
-
