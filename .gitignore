@@ -1,9 +1,7 @@
 *.py[co]
 *~
 *.DS_Store
-_build/
-auto_examples/
-gen_api/
 __pycache__
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+.coverage
