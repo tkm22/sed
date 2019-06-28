@@ -1,7 +1,6 @@
 import numpy as np
 import pandas as pd
 import unittest
-import income_data_processing as idp
 import glob
 from sed import income_data_processing as idp
 
