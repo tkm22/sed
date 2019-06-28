@@ -1,25 +1,22 @@
+--- 
+after_success: 
+  - "coverage report"
+  - coveralls
+branches: 
+  only: 
+    - master
+dist: xenial
+install: 
+  - "pip install coverage"
+  - "pip install coveralls"
+  - "pip install pytest"
+  - "pip install flake8"
+  - "pip install -r requirements.txt"
 language: python
-      sudo: True
-      dist: "xenial"
+python: 
+  - 3.7
+script: 
+  - "coverage run -m unittest discover"
+  - "flake8 cmdbox"
+sudo: true
 
-      python:
-        - 3.7
-
-      branches:
-        only:
-          - master
-
-      install:
-        - pip install coverage
-        - pip install coveralls
-        - pip install pytest
-        - pip install flake8
-        - pip install -r requirements.txt
-
-      script:
-        - coverage run -m unittest discover
-        - flake8 cmdbox
-
-      after_success:
-        - coverage report
-        - coveralls
