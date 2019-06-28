@@ -3,6 +3,7 @@ import pandas as pd
 import unittest
 import energy_data_processing as edp
 import glob
+from sed import energy_data_processing as edp
 
 test_df = pd.read_csv('test_benchmarking_data.csv')
 

@@ -1,23 +1,11 @@
-
-# coding: utf-8
-
-# In[1]:
-
-
 import numpy as np
 import pandas as pd
 import unittest
 import income_data_processing as idp
 import glob
-
-
-# In[2]:
-
+from sed import income_data_processing as idp
 
 test_df = pd.read_csv('test_income_data.csv')
-
-
-# In[ ]:
 
 
 class TestIncome(unittest.TestCase):

@@ -1,23 +1,11 @@
-
-# coding: utf-8
-
-# In[6]:
-
-
 import numpy as np
 import pandas as pd
 import unittest
 import utility_rates_data_processing as urdp
 import glob
-
-
-# In[7]:
-
+from sed import utility_rates_data_processing as edp
 
 test_df = pd.read_csv('test_utility_rate_data.csv')
-
-
-# In[9]:
 
 
 class TestUtilityRates(unittest.TestCase):
