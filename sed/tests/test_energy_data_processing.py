@@ -1,7 +1,6 @@
 import numpy as np
 import pandas as pd
 import unittest
-import energy_data_processing as edp
 import glob
 from sed import energy_data_processing as edp
 
