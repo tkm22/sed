@@ -1,2 +1,12 @@
 numpy
+scipy
+matplotlib
 pandas
+pickle
+seaborn
+category_encoders
+lightgbm
+xgboost
+optuna
+hyperopt
+joblib
