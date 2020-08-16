@@ -25,6 +25,10 @@ Machine Learning models around local consumer or business energy consumption. In
 will be used to understand and predict local energy demand, and may potentially be used to as a
 general method to forecast local energy consumption for future KPMG Advisory Engagements.
 
+### Project Poster
+![Poster]
+[Poster]:https://github.com/tkm22/sed/blob/master/doc/KPMG_Poster.pdf
+
 
 ### Organization of the project
 
