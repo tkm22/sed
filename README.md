@@ -30,6 +30,27 @@ general method to forecast local energy consumption for future KPMG Advisory Eng
 
 [Poster]: https://github.com/tkm22/sed/blob/master/doc/KPMG_Poster.jpg
 
+### EDA examples
+![EDA1]
+
+[EDA1]: https://github.com/tkm22/sed/blob/master/doc/EDA1.png
+
+![EDA2]
+
+[EDA2]: https://github.com/tkm22/sed/blob/master/doc/EDA1.png
+
+### SOTA xgboost model
+
+ 'r2_train: ': 0.9999809031090972
+ 'r2_trainCV': None
+ 'r2_test': 0.8991338963522097
+ 'mse_test': 1041.7457986265968
+ 
+  feature importantce:
+  ![feature]
+  
+  [feature]: https://github.com/tkm22/sed/blob/master/doc/feature_importance.png
+  
    
 
 
@@ -42,24 +63,20 @@ The project has the following structure:
       |- sed/
          |- __init__.py
          |- sed.py
-         |- due.py
+         |- linear_model.py
+         |- model.py
+         |- ...
          |- data/
             |- ...
          |- tests/
             |- ...
       |- doc/
-         |- Makefile
-         |- conf.py
-         |- sphinxext/
-            |- ...
-         |- _static/
-            |- ...
+
+         |- KPMG Midway Capstone Update.pptx
+         |- KPMG_Poster.pdf
+         |- ...
       |- setup.py
       |- .travis.yml
-      |- .mailmap
-      |- appveyor.yml
       |- LICENSE
-      |- Makefile
-      |- ipynb/
          |- ...
 
