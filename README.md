@@ -27,7 +27,10 @@ general method to forecast local energy consumption for future KPMG Advisory Eng
 
 ### Project Poster
 ![Poster]
-[Poster]:https://github.com/tkm22/sed/blob/master/doc/KPMG_Poster.pdf
+
+[Poster]: https://github.com/tkm22/sed/blob/master/doc/KPMG_Poster.pdf
+
+   
 
 
 ### Organization of the project
